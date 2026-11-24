@@ -1,0 +1,115 @@
+{
+  "title": "Órbitas · Ciencia en juego",
+  "questions": [
+    {
+      "prompt": "¿Qué planeta tarda menos en dar una vuelta al Sol?",
+      "answers": [
+        "Mercurio",
+        "Venus",
+        "Marte",
+        "Júpiter"
+      ],
+      "correct": 1,
+      "seconds": 20
+    },
+    {
+      "prompt": "¿Cuál de estos materiales conduce mejor la electricidad?",
+      "answers": [
+        "Vidrio",
+        "Cobre",
+        "Madera",
+        "Corcho"
+      ],
+      "correct": 2,
+      "seconds": 18
+    },
+    {
+      "prompt": "¿Qué instrumento mide la presión atmosférica?",
+      "answers": [
+        "Termómetro",
+        "Higrómetro",
+        "Barómetro",
+        "Brújula"
+      ],
+      "correct": 3,
+      "seconds": 25
+    },
+    {
+      "prompt": "¿Qué estructura celular fabrica proteínas?",
+      "answers": [
+        "Ribosoma",
+        "Núcleo",
+        "Vacuola",
+        "Membrana"
+      ],
+      "correct": 1,
+      "seconds": 25
+    },
+    {
+      "prompt": "¿Qué tipo de onda necesita un medio material?",
+      "answers": [
+        "Luz visible",
+        "Rayos X",
+        "Ondas de radio",
+        "Sonido"
+      ],
+      "correct": 4,
+      "seconds": 20
+    },
+    {
+      "prompt": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+      "answers": [
+        "Oxígeno",
+        "Nitrógeno",
+        "Helio",
+        "Argón"
+      ],
+      "correct": 2,
+      "seconds": 20
+    },
+    {
+      "prompt": "¿Cuántos lados tiene un hexágono?",
+      "answers": [
+        "Cinco",
+        "Siete",
+        "Seis",
+        "Ocho"
+      ],
+      "correct": 3,
+      "seconds": 12
+    },
+    {
+      "prompt": "¿Cuál es el símbolo químico del hierro?",
+      "answers": [
+        "Fe",
+        "H",
+        "He",
+        "Ir"
+      ],
+      "correct": 1,
+      "seconds": 15
+    },
+    {
+      "prompt": "¿Cómo se llama el paso de sólido a gas?",
+      "answers": [
+        "Fusión",
+        "Evaporación",
+        "Condensación",
+        "Sublimación"
+      ],
+      "correct": 4,
+      "seconds": 22
+    },
+    {
+      "prompt": "¿Qué estrella está más cerca de la Tierra?",
+      "answers": [
+        "Sirio",
+        "El Sol",
+        "Vega",
+        "Polar"
+      ],
+      "correct": 2,
+      "seconds": 15
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Cartes · Geografia",
+  "questions": [
+    {
+      "prompt": "Quina ciutat és la capital de Portugal?",
+      "answers": [
+        "Porto",
+        "Lisboa",
+        "Faro"
+      ],
+      "correct": 2,
+      "seconds": 20
+    },
+    {
+      "prompt": "Quin oceà banya la costa occidental del Perú?",
+      "answers": [
+        "Pacífic",
+        "Índic",
+        "Atlàntic"
+      ],
+      "correct": 1,
+      "seconds": 20
+    },
+    {
+      "prompt": "Quin riu passa per París?",
+      "answers": [
+        "Tàmesi",
+        "Danubi",
+        "Sena"
+      ],
+      "correct": 3,
+      "seconds": 20
+    }
+  ]
+}
